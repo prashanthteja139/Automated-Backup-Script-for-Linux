@@ -19,13 +19,13 @@ A Bash-based automation that backs up directories into compressed `.tar.gz` file
    SOURCE_DIR="/path/to/your/folder"
 2. Make the script executable:
 
-chmod +x backup_script.sh
+   chmod +x backup_script.sh
 
 3. Run the script:
 
-./backup_script.sh
+   ./backup_script.sh
 
 4. (Optional) Schedule daily backups via cron:
 
 crontab -e
-0 2 * * * /path/to/backup_script.sh
+   0 2 * * * /path/to/backup_script.sh
