@@ -13,7 +13,7 @@ A Bash-based automation that backs up directories into compressed `.tar.gz` file
 
 ---
 
-## ⚙️ Usage
+⚙️ Usage
 1. Edit the script and update the source directory:
    ```bash
    SOURCE_DIR="/path/to/your/folder"
