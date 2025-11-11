@@ -2,8 +2,6 @@
 
 A Bash-based automation that backs up directories into compressed `.tar.gz` files with timestamps and automatically cleans up old backups.
 
----
-
 ## 🚀 Features
 - Automatically backs up important directories
 - Compresses files to save space
@@ -11,7 +9,6 @@ A Bash-based automation that backs up directories into compressed `.tar.gz` file
 - Deletes backups older than 7 days
 - Simple to schedule with `cron`
 
----
 
 ⚙️ Usage
 1. Edit the script and update the source directory:
